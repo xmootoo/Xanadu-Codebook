@@ -3,7 +3,5 @@
 This repository contains my solutions to the [Xanadu Quantum Codebook](https://codebook.xanadu.ai/), a phenomenal resource for learning the fundamentals of quantum computing using the [PennyLane](https://pennylane.ai/) python library.
 
 
-<p align="center">
-   src="https://user-images.githubusercontent.com/59294467/190055857-46121242-55aa-4038-9e06-fff822b5adf2.jpeg">
-</p>
+![background](https://user-images.githubusercontent.com/59294467/190055903-87103034-7d08-45fd-b54c-1767478d532b.jpeg)
 
