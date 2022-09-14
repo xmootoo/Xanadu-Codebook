@@ -4,6 +4,6 @@ This repository contains my solutions to the [Xanadu Quantum Codebook](https://c
 
 
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/59294467/190055857-46121242-55aa-4038-9e06-fff822b5adf2.jpeg">
+   src="https://user-images.githubusercontent.com/59294467/190055857-46121242-55aa-4038-9e06-fff822b5adf2.jpeg">
 </p>
 
