@@ -1,3 +1,3 @@
 # Xanadu Codebook
 
-This repository contains my solutions to the [Xanadu Quantum Codebook](https://codebook.xanadu.ai/) which is a phenomenal resource for learning the fundamentals of quantum computing using the PennyLane library.
+This repository contains my solutions to the [Xanadu Quantum Codebook](https://codebook.xanadu.ai/) which is a phenomenal resource for learning the fundamentals of quantum computing using the [PennyLane library](https://pennylane.ai/).
